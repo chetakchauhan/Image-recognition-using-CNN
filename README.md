@@ -7,8 +7,8 @@ objects that are not birds.
 
 Here is how objects are labeled in CIFAR10:
 
-Image Type
+Image Type:
 airplane automobile bird cat deer dog frog horse ship truck
 
-Class Label
+Class Label:
 0 1 2 3 4 5 6 7 8 9
